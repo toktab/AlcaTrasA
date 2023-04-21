@@ -1,2 +1,1 @@
-Confused to what to do and learn.
-
+Ready To Conquer the world.
