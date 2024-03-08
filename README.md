@@ -2,6 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=toktab&color=brightgreen)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=toktab&theme=onedark)](https://github.com/toktab/)
+
 ## About Me
 I'm [Toko](https://www.linkedin.com/in/toktab/), a software developer with a keen interest in backend development. I'm passionate about creating efficient and scalable solutions and aspire to gain as much experience as possible in backend technologies.
 
