@@ -7,7 +7,6 @@ I'm [Toko](https://www.linkedin.com/in/toktab/), a software developer with a kee
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-Connect%20with%20me-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/toktab/)
-Connect with me on LinkedIn for professional networking and collaborations.
 
 ## Languages and Frameworks
 - ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus)
