@@ -11,7 +11,6 @@ I'm [Toko](https://www.linkedin.com/in/toktab/), a software developer with a kee
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/toktab/)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](https://www.instagram.com/tokotabagari17/)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/profile.php?id=100076270766328)
-![Discord](https://img.shields.io/badge/-Discord-green?style=flat&logo=discord)
 
 ## Languages and Frameworks
 [![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus)](https://isocpp.org/) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)](https://www.java.com/) [![Spring Framework](https://img.shields.io/badge/Spring_Framework-green?style=flat&logo=spring&logoColor=white)](https://spring.io/) [![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
